@@ -1,6 +1,6 @@
 # nova2507
 
-FIXME: description
+FIXME: hasiendo magia
 
 ## Installation
 
